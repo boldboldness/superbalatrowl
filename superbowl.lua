@@ -11,8 +11,8 @@ SMODS.Atlas {
 SMODS.Joker {
     key = 'eagles',
 
-    cost = 5,
-    rarity = 1,
+    cost = 6,
+    rarity = 2,
     blueprint_compat = true,
 
     config = {
@@ -80,8 +80,8 @@ SMODS.Joker {
 SMODS.Joker {
     key = 'chiefs',
 
-    cost = 5,
-    rarity = 1,
+    cost = 6,
+    rarity = 2,
     blueprint_compat = true,
 
     config = {
