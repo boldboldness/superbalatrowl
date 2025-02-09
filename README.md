@@ -4,7 +4,7 @@
 
 ## Effect
 
-Eagles: Gives random Xmult bewtween -2x and 9x
+Eagles: Gives random Xmult bewtween -2x and 10x
 
 Chiefs: Each played card gives +2 Mult with a 1 in 50 chance to give x50 Xmult
 
