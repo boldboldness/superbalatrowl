@@ -27,7 +27,7 @@ SMODS.Joker {
     loc_txt = {
         name = "Eagles",
         text = {
-            "Random XMult between {X:mult,C:white}x#1#{} and {X:mult,C:white}x#2#{}"
+            "Gives random XMult between {X:mult,C:white}x#1#{} and {X:mult,C:white}x#2#{}"
         }
     },
 
