@@ -20,7 +20,7 @@ SMODS.Joker {
             xmult_range = 12,
             xmult_offset = 2,
             xmult_min = -2,
-            xmult_max = 9,
+            xmult_max = 10,
         }
     },
 
